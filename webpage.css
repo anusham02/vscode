@@ -1,0 +1,32 @@
+.span1{
+    font-size: 40px;
+    margin-left: 20px;
+
+}
+.image1{
+    margin-left: 500px;
+}
+.links{
+    font-size: 30px;
+    color: darkred;
+    margin-left: 100px;
+    text-decoration: none;
+}
+.links:hover{
+    color: indigo;
+    background-color: lawngreen;
+
+}
+.content{
+    font-size: 25px;
+    margin-left: 500px;
+    word-spacing: 2px;
+    margin-top: -250px;
+    text-align: justify;
+    width: 700px;
+}
+.heading{
+    margin-left: 500px;
+    margin-bottom: 20px;
+
+}

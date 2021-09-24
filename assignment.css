@@ -1,0 +1,91 @@
+.start{
+
+    background-color: mediumblue;
+    font-size: 10px;
+}
+
+
+
+.navbar-brand{
+    font-size: 60px;
+}
+
+
+
+
+
+
+
+.class1{
+    margin-left: 500px;
+    color:maroon;
+    font-size: 15px;
+
+}  
+
+
+.card-body{
+    font-size: 30px;
+    color: blue;
+    margin-top: 150px;
+    font-size: 20px;
+    margin-left: 100px;
+}
+.card-title{
+    font-size: 25px;
+}
+.card-text{
+    color: black;
+    font-size: 15pxpx;
+}
+.card{
+    background-image:url("http://www.pngmagic.com/product_images/yellow-background-hd-sm.jpg");
+    background-repeat:no-repeat ;
+    background-attachment:fixed;
+    background-size: cover;
+}
+
+
+.container2{
+    justify-content: space-around;
+    background-size: cover;
+    margin-left: 50px;
+
+
+}
+.container2:hover{
+    background-color: blue;
+
+
+
+}
+
+
+
+
+
+
+.about{
+    font-size: 30px;
+    text-align: center;
+    background-color: darkgray;
+    color:maroon;
+}
+.head1{
+    font-size: 25px;
+    text-align:center;
+
+}
+.content{
+    font-size: 15px;
+    text-align: center;
+}
+.hed{
+    font-size: 30px;
+    margin-right: 100;
+
+}
+
+
+
+
